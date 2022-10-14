@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstConsoleApp", "MyFirstConsoleApp\MyFirstConsoleApp.csproj", "{7E207B6E-FE59-4E88-8AE8-9317470F2993}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstConsoleApp", "MyFirstConsoleApp\MyFirstConsoleApp.csproj", "{7E207B6E-FE59-4E88-8AE8-9317470F2993}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchGame", "MatchGame\MatchGame.csproj", "{CE399048-C401-4D44-8054-BE4B6CFB22C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentWithControls", "ExperimentWithControls\ExperimentWithControls.csproj", "{46639298-B20F-4E1C-9049-33B065C690DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PickRandomCards", "PickRandomCards\PickRandomCards.csproj", "{F1816DBD-C217-4E4C-8FEA-25A94A1AB548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickACardUI", "PickACardUI\PickACardUI.csproj", "{FB2DD702-5CF7-4678-A12E-2BCF6A6FC44E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbilityScoreTester", "AbilityScoreTester\AbilityScoreTester.csproj", "{3AA2B123-8F49-4DAF-879A-FF7B70FF631C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{CE399048-C401-4D44-8054-BE4B6CFB22C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE399048-C401-4D44-8054-BE4B6CFB22C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE399048-C401-4D44-8054-BE4B6CFB22C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46639298-B20F-4E1C-9049-33B065C690DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46639298-B20F-4E1C-9049-33B065C690DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46639298-B20F-4E1C-9049-33B065C690DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46639298-B20F-4E1C-9049-33B065C690DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1816DBD-C217-4E4C-8FEA-25A94A1AB548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1816DBD-C217-4E4C-8FEA-25A94A1AB548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1816DBD-C217-4E4C-8FEA-25A94A1AB548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1816DBD-C217-4E4C-8FEA-25A94A1AB548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2DD702-5CF7-4678-A12E-2BCF6A6FC44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2DD702-5CF7-4678-A12E-2BCF6A6FC44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2DD702-5CF7-4678-A12E-2BCF6A6FC44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2DD702-5CF7-4678-A12E-2BCF6A6FC44E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA2B123-8F49-4DAF-879A-FF7B70FF631C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA2B123-8F49-4DAF-879A-FF7B70FF631C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA2B123-8F49-4DAF-879A-FF7B70FF631C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA2B123-8F49-4DAF-879A-FF7B70FF631C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
