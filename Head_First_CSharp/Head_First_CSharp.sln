@@ -13,7 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PickRandomCards", "PickRand
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickACardUI", "PickACardUI\PickACardUI.csproj", "{FB2DD702-5CF7-4678-A12E-2BCF6A6FC44E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbilityScoreTester", "AbilityScoreTester\AbilityScoreTester.csproj", "{3AA2B123-8F49-4DAF-879A-FF7B70FF631C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbilityScoreTester", "AbilityScoreTester\AbilityScoreTester.csproj", "{3AA2B123-8F49-4DAF-879A-FF7B70FF631C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uprajnenie_Elephant", "Uprajnenie_Elephant\Uprajnenie_Elephant.csproj", "{50A362EE-8CA8-4AE7-AD14-DBB423014524}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercizeRandom", "ExercizeRandom\ExercizeRandom.csproj", "{51C71BB6-31ED-4E5E-9823-13EF1A66E21C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfDjo", "WpfDjo\WpfDjo.csproj", "{78B109EB-6209-4AC5-88FB-EBB95293781A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateDamage", "CalculateDamage\CalculateDamage.csproj", "{84AE130B-4401-4EAE-A021-75885822B394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCalculateDamage", "WpfCalculateDamage\WpfCalculateDamage.csproj", "{E7EEAAAA-F063-4809-BB95-609235EDC022}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{3AA2B123-8F49-4DAF-879A-FF7B70FF631C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AA2B123-8F49-4DAF-879A-FF7B70FF631C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AA2B123-8F49-4DAF-879A-FF7B70FF631C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A362EE-8CA8-4AE7-AD14-DBB423014524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A362EE-8CA8-4AE7-AD14-DBB423014524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A362EE-8CA8-4AE7-AD14-DBB423014524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A362EE-8CA8-4AE7-AD14-DBB423014524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C71BB6-31ED-4E5E-9823-13EF1A66E21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C71BB6-31ED-4E5E-9823-13EF1A66E21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C71BB6-31ED-4E5E-9823-13EF1A66E21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C71BB6-31ED-4E5E-9823-13EF1A66E21C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B109EB-6209-4AC5-88FB-EBB95293781A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B109EB-6209-4AC5-88FB-EBB95293781A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B109EB-6209-4AC5-88FB-EBB95293781A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B109EB-6209-4AC5-88FB-EBB95293781A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AE130B-4401-4EAE-A021-75885822B394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AE130B-4401-4EAE-A021-75885822B394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AE130B-4401-4EAE-A021-75885822B394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AE130B-4401-4EAE-A021-75885822B394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7EEAAAA-F063-4809-BB95-609235EDC022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EEAAAA-F063-4809-BB95-609235EDC022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EEAAAA-F063-4809-BB95-609235EDC022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EEAAAA-F063-4809-BB95-609235EDC022}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
